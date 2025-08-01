@@ -1,0 +1,8 @@
+ speech_recognition 
+ requests
+ webbrowser
+ pyttsx3
+ wikipedia
+ datetime  
+ os
+ subprocess
