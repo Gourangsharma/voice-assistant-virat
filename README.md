@@ -18,9 +18,9 @@ Virat is a Python-based voice assistant that responds to voice commands for web 
 -  **Custom Music Library**:
        -  Plays YouTube music using your own `musiclibrary.py` ,you can add links of songs of your own choice in this library
 -  **System Commands**:
-  - Shutdown, Restart, Lock PC, Open Calculator, Notepad, VS Code
+       - Shutdown, Restart, Lock PC, Open Calculator, Notepad, VS Code
 -  **Real-Time Weather Info**:
-  - Asks city name and fetches weather using OpenWeatherMap API
+       - Asks city name and fetches weather using OpenWeatherMap API
 
 ---
 
