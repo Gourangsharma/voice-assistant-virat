@@ -86,6 +86,7 @@ voice-assistant-virat/
 ---
 
 ##  Notes
+- config.py is excluded from GitHub using .gitignore — it contains private API key.
 - Requires an internet connection for voice recognition, weather, and Wikipedia
 - pyaudio may require manual installation for some systems (especially Windows)
 - This is a learning-focused, personal voice assistant project
