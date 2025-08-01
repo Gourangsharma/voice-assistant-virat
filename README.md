@@ -80,7 +80,7 @@ voice-assistant-virat/
 - "What is Python?"
 - "Search artificial intelligence"
 - "Shutdown the system"
-- "Weather"
+- "What is the weather"
       - (then say: “Delhi”)
 
 ---
