@@ -101,3 +101,7 @@ Feel free to connect for collaboration, feedback, or questions
 
 ## License
 This project is open for educational and personal use. Use responsibly and avoid automating any unsafe or unauthorized tasks.
+
+
+Added full project description and features to README
+
