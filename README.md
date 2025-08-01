@@ -81,7 +81,7 @@ voice-assistant-virat/
 - "Search artificial intelligence"
 - "Shutdown the system"
 - "Weather"
- - (then say: “Delhi”)
+      - (then say: “Delhi”)
 
 ---
 
