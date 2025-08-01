@@ -9,14 +9,14 @@ Virat is a Python-based voice assistant that responds to voice commands for web 
 -  **Wake Word Detection**: Responds to phrases like “hello Virat”, “hi Virat”, etc.
 -  **Text-to-Speech (TTS)**: Replies using a human-like voice with `pyttsx3`
 -  **Speech Recognition**: Converts voice to text using Google Speech API
- -  **Web Control**:
-- Open websites like Google, YouTube, Gmail, ChatGPT, GitHub, Stack Overflow, Maps, WhatsApp
- -  **Date and Time Reporting**:
-- “What’s the time?”, “What’s the date?”
+-  **Web Control**:
+       - Open websites like Google, YouTube, Gmail, ChatGPT, GitHub, Stack Overflow, Maps, WhatsApp
+-  **Date and Time Reporting**:
+       - “What’s the time?”, “What’s the date?”
 -  **Google Search**: Say “Search Python list comprehension” to get results
 -  **Wikipedia Summaries**: Ask “Who is Elon Musk?” or “What is ChatGPT?”
 -  **Custom Music Library**:
- -  Plays YouTube music using your own `musiclibrary.py` ,you can add links of songs of your own choice in this library
+       -  Plays YouTube music using your own `musiclibrary.py` ,you can add links of songs of your own choice in this library
 -  **System Commands**:
   - Shutdown, Restart, Lock PC, Open Calculator, Notepad, VS Code
 -  **Real-Time Weather Info**:
